@@ -14,3 +14,10 @@ Step 4: Predicting player points - https://github.com/adamcorren/fantasy_footbal
 Step 5: Selecting teams - https://github.com/adamcorren/fantasy_football_selecting_teams
 
 Project Report - https://github.com/adamcorren/fantasy_football_project_report
+
+## License
+
+Licensed under [MIT]((https://opensource.org/license/mit/)).
+
+The data used in this project is property of https://fbref.com and http://clubelo.com/
+I don't own any of the data
